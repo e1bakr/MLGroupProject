@@ -1,0 +1,5 @@
+Multi-Class Classifier Accuracy Scores -- (MEAN)
+
+Dummy Accuracy : 0.198149386845039
+Logistic Accuracy : 0.49832552954292086
+KNN Accuracy : 0.551010033444816
